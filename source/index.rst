@@ -1,21 +1,26 @@
-.. knowledge documentation master file, created by
-   sphinx-quickstart on Sat Apr 12 12:22:20 2014.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to knowledge's documentation!
-=====================================
-
-Contents:
+プロジェクトタイトル
+========================
 
 .. toctree::
-   :maxdepth: 2
+    :maxdepth: 3
+    :numbered:
 
+    project/index
+    development/index
+    design/index
+    records/index
 
+用語集・索引・検索
+===================
 
-Indices and tables
-==================
+.. toctree::
+    :hidden:
 
+    glossary
+    todo
+
+* :doc:`todo`
+* :doc:`glossary`
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
