@@ -5,12 +5,66 @@
 開発
 =====
 
-OSおよび周辺サーバ
--------------------
+プロジェクト管理
+----------------
+* Redmine
 
-エディタ・統合環境
--------------------
-
-ブラウザ
+環境構築
 ---------
+* Vagrant
+* Chef
+* VirtualBox
 
+思考整理
+----------
+* FreeMind
+    - マインドマップ
+    - Windows / Mac OS X / Linux
+* SimpleMind
+    - マインドマップ
+    - Mac OS X / iOS
+
+ランチャー
+-----------
+* ZiiLauncher
+    - コマンド入力型ランチャー
+    - Windows
+* fenrir
+    - コマンド入力型ランチャー
+    - Windows
+* Alfred
+    - コマンド入力型ランチャー
+    - Mac OS X
+
+全文検索
+---------
+* 探三郎
+    - Windows
+* Tembo
+    - Mac OS X
+* Spotlight
+    - Mac OS X
+
+テキストエディタ
+---------------
+* Sublime Text
+    - Windows / Mac OS X/ Linux
+* Vim
+    - Mac OS X / Linux
+
+主要ブラウザ
+-------------
+* Internet Explorer
+* Google Chrome
+* Firefox
+* Safari
+
+コミュニケーションツール
+----------------------
+* IRC
+* IP Messenger
+
+参考文献
+---------
+* ナウいツールやサービスなどのまとめ
+    - http://qiita.com/phimcall/items/555d09f872373f65c6fb
