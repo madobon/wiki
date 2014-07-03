@@ -26,13 +26,10 @@
 
 ランチャー
 -----------
-* ZiiLauncher
-    - コマンド入力型ランチャー
-    - Windows
 * fenrir
     - コマンド入力型ランチャー
     - Windows
-* Alfred
+* Alfred2
     - コマンド入力型ランチャー
     - Mac OS X
 
@@ -45,12 +42,32 @@
 * Spotlight
     - Mac OS X
 
+FTP
+-----
+* WinSCP
+* FileZilla
+    - Windows / Max OS X
+
+バージョン管理
+---------------
+* TortoiseSVN
+* TortoiseGit
+* SourceTree
+
+パケットキャプチャ
+------------------
+* WireShark
+
 テキストエディタ
 ---------------
 * Sublime Text
     - Windows / Mac OS X/ Linux
 * Vim
     - Mac OS X / Linux
+
+差分(Diff)取得
+---------------
+* WinMerge
 
 主要ブラウザ
 -------------
@@ -61,8 +78,20 @@
 
 コミュニケーションツール
 ----------------------
-* IRC
+* LimeChat
+    - IRCクライアント
 * IP Messenger
+    - IPメッセンジャー
+* Chat and Messenger
+    - IPメッセンジャー
+
+画像キャプチャ
+-------------
+* ScreenPresso
+    - Windows
+* Skitch
+    - Mac OS X / Windows
+
 
 参考文献
 ---------
