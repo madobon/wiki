@@ -41,6 +41,17 @@
     - Mac OS X
 * Spotlight
     - Mac OS X
+    
+Database Client Tool
+-------------------------------------------------------
+* DbVisualizer
+    - 有料
+    - Windows / Mac OS X
+* Squirrel SQL Client
+    - Windows / Mac OS X
+* pgAdmin3
+    - PostgreSQL専用
+    - WIndows / Mac OS X
 
 FTP
 -------------------------------------------------------
