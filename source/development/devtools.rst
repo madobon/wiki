@@ -12,33 +12,48 @@
 環境構築
 -------------------------------------------------------
 * Vagrant
+    - 仮想環境の雛形を作成し、どこでも簡単に同じ環境を再現できるようにするもの
+    - http://www.vagrantup.com/
+* Docker
+    - コンテナ技術を使った軽量な仮想環境
+    - http://www.docker.com/
 * Chef
+    - 自動的にユーザーの作成やパッケージのインストール、設定ファイルの編集などを行うもの
+    - http://www.getchef.com/
 * VirtualBox
+    - 無料な仮想環境
+    - https://www.virtualbox.org/
 
 思考整理
 -------------------------------------------------------
 * FreeMind
     - マインドマップ
     - Windows / Mac OS X / Linux
+    - http://sourceforge.jp/projects/freemind/
 * SimpleMind
     - マインドマップ
     - Mac OS X / iOS
+    - http://www.simpleapps.eu/simplemind/
 
 ランチャー
 -------------------------------------------------------
 * fenrir
     - コマンド入力型ランチャー
     - Windows
+    - http://hp.vector.co.jp/authors/VA026310/
 * Alfred2
     - コマンド入力型ランチャー
     - Mac OS X
+    - http://www.alfredapp.com/
 
 全文検索
 -------------------------------------------------------
 * 探三郎
     - Windows
+    - http://www.geocities.jp/koutarou_y1926/
 * Tembo
     - Mac OS X
+    - http://houdah.com/tembo/
 * Spotlight
     - Mac OS X
     
@@ -47,11 +62,14 @@ Database Client Tool
 * DbVisualizer
     - 有料
     - Windows / Mac OS X
+    - http://www.dbvis.com/
 * Squirrel SQL Client
     - Windows / Mac OS X
+    - http://squirrel-sql.sourceforge.net/
 * pgAdmin3
     - PostgreSQL専用
-    - WIndows / Mac OS X
+    - Windows / Mac OS X
+    - http://www.pgadmin.org/
 
 FTP
 -------------------------------------------------------
