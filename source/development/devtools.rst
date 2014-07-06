@@ -8,6 +8,8 @@
 プロジェクト管理
 -------------------------------------------------------
 * Redmine
+    - http://www.redmine.org/
+    - http://redmine.jp/ （非公式）
 
 環境構築
 -------------------------------------------------------
@@ -80,12 +82,28 @@ FTP
 バージョン管理
 -------------------------------------------------------
 * TortoiseSVN
+    - http://tortoisesvn.net/
 * TortoiseGit
+    - https://code.google.com/p/tortoisegit/
 * SourceTree
+    - http://www.sourcetreeapp.com/
 
 パケットキャプチャ
 -------------------------------------------------------
 * WireShark
+    - http://www.wireshark.org/
+    - http://sourceforge.jp/projects/wireshark/
+    
+デバッグツール
+-------------------------------------------------------
+* Fiddler
+    - http://www.telerik.com/fiddler
+* Firebug
+    - Firefox Addon
+    - https://addons.mozilla.org/ja/firefox/addon/firebug/
+* Chrome Dev Tools
+    - included in Google Chrome
+    
 
 テキストエディタ
 -------------------------------------------------------
@@ -109,17 +127,22 @@ FTP
 -------------------------------------------------------
 * LimeChat
     - IRCクライアント
+    - http://limechat.net/
 * IP Messenger
     - IPメッセンジャー
+    - http://ipmsg.org/
 * Chat and Messenger
     - IPメッセンジャー
+    - http://chat-messenger.net/
 
 画像キャプチャ
 -------------------------------------------------------
 * ScreenPresso
     - Windows
+    - http://ja.screenpresso.com/
 * Skitch
     - Mac OS X / Windows
+    - http://evernote.com/intl/jp/skitch/
 
 
 参考文献
