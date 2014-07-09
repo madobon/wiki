@@ -108,6 +108,13 @@ FTP
     - https://addons.mozilla.org/ja/firefox/addon/firebug/
 * Chrome Dev Tools
     - included in Google Chrome
+
+
+ドキュメント検索
+=======================================================
+* Dash
+    - コード検索
+    - http://kapeli.com/dash
     
 
 テキストエディタ
