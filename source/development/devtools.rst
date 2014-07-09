@@ -36,6 +36,10 @@
     - マインドマップ
     - Mac OS X / iOS
     - http://www.simpleapps.eu/simplemind/
+* MindNode
+    - マインドマップ
+    - Mac OS X / iOS
+    - http://mindnode.com/
 
 ランチャー
 =======================================================
@@ -110,12 +114,14 @@ FTP
 =======================================================
 * Sublime Text
     - Windows / Mac OS X/ Linux
+    - http://www.sublimetext.com/
 * Vim
     - Mac OS X / Linux
 
 差分(Diff)取得
 =======================================================
 * WinMerge
+    - http://winmerge.org/
 
 主要ブラウザ
 =======================================================
