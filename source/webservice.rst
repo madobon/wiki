@@ -6,5 +6,7 @@
 Lint系
 ================================
 
-# JSON
-  - http://jsonlint.com/
+* HTML
+    - http://www.htmllint.net/html-lint/htmllint.html
+* JSON
+    - http://jsonlint.com/
