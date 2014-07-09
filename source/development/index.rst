@@ -12,4 +12,5 @@ Contents:
     install
     develop-cycle
     devtools
+    webservice
     troubleshooting
