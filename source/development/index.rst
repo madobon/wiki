@@ -14,3 +14,4 @@ Contents:
     devtools
     webservice
     troubleshooting
+    vagrant/index
