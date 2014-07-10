@@ -1,3 +1,16 @@
 ==========
 Vagrant
 ==========
+
+インストール
+=================
+
+BOXのインストール
+=================
+
+http://www.vagrantbox.es/
+
+.. code-block:: bash
+    $ vagrant box add {title} {url}
+    $ vagrant init {title}
+    $ vagrant up
