@@ -7,6 +7,7 @@
 早見表
 ---------
 .. code-block::none
+
      box             manages boxes: installation, removal, etc.
      connect         connect to a remotely shared Vagrant environment
      destroy         stops and deletes all traces of the vagrant machine
