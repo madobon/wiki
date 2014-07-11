@@ -2,7 +2,7 @@
 Vagrant
 ==========
 
-インストール
+Basic Command
 =================
 
 boxの追加
@@ -39,6 +39,10 @@ vagrantへログイン
 
     $ ssh vagrant@localhost -p 2222
 
+.. code-block:: bash
+
+    $ ssh vagrant@{guestIP} -p 22
+    
 vagrantの終了
 ----------------------------------------
 
