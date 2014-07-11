@@ -2,7 +2,7 @@
 Vagrant
 ==========
 
-Basic Command
+基本コマンド
 =================
 
 boxの追加
