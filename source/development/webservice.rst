@@ -11,7 +11,20 @@ Lint系
 * JSON
     - http://jsonlint.com/
 
-Drawing系
+せい系
+================================
+* jsbeautifier
+    - Javascriptの整形
+    - http://jsbeautifier.org/
+
+まとめ系
+================================
+* freeformatter
+    - freeformatter
+    - http://www.freeformatter.com/
+
+
+かく系
 ================================
 * cacoo
     - 図の作成
@@ -19,7 +32,7 @@ Drawing系
     - コラボレーション可
     - https://cacoo.com/
 
-学習系
+お勉強系
 ================================
 * SpeackerDeck
     - 基本無料
