@@ -15,3 +15,4 @@ Contents:
     webservice
     troubleshooting
     vagrant/index
+    linux/cmd
