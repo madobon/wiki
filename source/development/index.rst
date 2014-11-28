@@ -16,3 +16,4 @@ Contents:
     troubleshooting
     vagrant/index
     linux/cmd
+    swift/index
