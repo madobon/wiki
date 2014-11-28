@@ -1,14 +1,11 @@
-プロジェクトタイトル
+Knowledge
 ========================
 
 .. toctree::
     :maxdepth: 3
     :numbered:
 
-    project/index
     development/index
-    design/index
-    records/index
 
 用語集・索引・検索
 ===================
