@@ -4,7 +4,7 @@
 .. contents:: 目次
     :depth: 2
 
-.. code-block:: swift
+.. code-block:: guess
     override func viewDidLoad() {
 
         super.viewDidLoad()
