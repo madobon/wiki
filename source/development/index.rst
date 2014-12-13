@@ -15,5 +15,6 @@ Contents:
     webservice
     troubleshooting
     vagrant/index
+    sublimetext/index
     linux/cmd
     programming

@@ -6,7 +6,7 @@
 
 早見表
 ---------
-.. code-block:: none
+.. code::
 
      box             manages boxes: installation, removal, etc.
      connect         connect to a remotely shared Vagrant environment
@@ -36,42 +36,42 @@ boxの追加
 
 http://www.vagrantbox.es/
 
-.. code-block:: bash
+.. code:: bash
 
     $ vagrant box add {title} {url}
 
 boxの初期化（VagrantFileの生成）
 ----------------------------------------
 
-.. code-block:: bash
+.. code:: bash
 
     $ vagrant init {title}
 
 vagrantの起動
 ----------------------------------------
 
-.. code-block:: bash
+.. code:: bash
 
     $ vagrant up
 
 vagrantへログイン
 ----------------------------------------
 
-.. code-block:: bash
+.. code:: bash
 
     $ vagrant ssh
 
-.. code-block:: bash
+.. code:: bash
 
     $ ssh vagrant@localhost -p 2222
 
-.. code-block:: bash
+.. code:: bash
 
     $ ssh vagrant@{guestIP} -p 22
-    
+
 vagrantの終了
 ----------------------------------------
 
-.. code-block:: bash
+.. code:: bash
 
     $ vagrant halt
