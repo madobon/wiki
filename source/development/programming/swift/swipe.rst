@@ -4,7 +4,8 @@
 .. contents:: 目次
     :depth: 2
 
-.. code-block:: plain
+.. code:: Swift
+
     override func viewDidLoad() {
 
         super.viewDidLoad()

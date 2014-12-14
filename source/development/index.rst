@@ -1,5 +1,5 @@
 ===============
-開発手順
+Development
 ===============
 
 Contents:
@@ -7,14 +7,8 @@ Contents:
 .. toctree::
     :maxdepth: 3
 
-    environment
-    code-repository
-    install
-    develop-cycle
-    devtools
+    tool/index
+    programming/index
     webservice
     troubleshooting
-    vagrant/index
-    sublimetext/index
-    linux/cmd
-    programming
+    scrum

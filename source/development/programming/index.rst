@@ -1,8 +1,8 @@
 ============
-Programming
+プログラミング
 ============
 
 .. toctree::
     :maxdepth: 2
 
-    swift
+    swift/index
