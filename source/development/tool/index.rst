@@ -10,62 +10,13 @@
     full-text_search/index
     editor/index
     database_client/index
+    ftp/index
+    idea/index
+    revision_control/index
+    launcher/index
 
 .. contents:: 目次
    :depth: 3
-
-Database Client Tool
-=======================================================
-
-DbVisualizer
--------------------
-
-* 有料
-* Windows / Mac OS X
-* http://www.dbvis.com/
-
-Squirrel SQL
--------------------
-
-* SQL Client
-* Windows / Mac OS X
-* http://squirrel-sql.sourceforge.net/
-
-pgAdmin3
--------------------
-
-* PostgreSQL専用
-* Windows / Mac OS X
-* http://www.pgadmin.org/
-
-FTP
-=======================================================
-
-WinSCP
--------------------
-
-FileZilla
--------------------
-
-* Windows / Max OS X
-
-バージョン管理
-=======================================================
-
-TortoiseSVN
--------------------
-
-* http://tortoisesvn.net/
-
-TortoiseGit
--------------------
-
-* https://code.google.com/p/tortoisegit/
-
-SourceTree
--------------------
-
-* http://www.sourcetreeapp.com/
 
 パケットキャプチャ
 =======================================================
