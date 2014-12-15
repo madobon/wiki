@@ -2,7 +2,13 @@
 Redmine
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* チケット稼働型
+* http://www.redmine.org/
+* http://redmine.jp/ （非公式）

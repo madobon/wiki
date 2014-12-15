@@ -2,7 +2,13 @@
 FreeMind
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* マインドマップ
+* Windows / Mac OS X / Linux
+* http://sourceforge.jp/projects/freemind/

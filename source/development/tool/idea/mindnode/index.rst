@@ -2,7 +2,13 @@
 MindNode
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* マインドマップ
+* Mac OS X / iOS
+* http://mindnode.com/

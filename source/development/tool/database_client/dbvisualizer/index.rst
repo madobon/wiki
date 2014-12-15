@@ -2,7 +2,13 @@
 DbVisualizer
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* 有料
+* Windows / Mac OS X
+* http://www.dbvis.com/

@@ -2,7 +2,12 @@
 探三郎
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* Windows
+* http://www.geocities.jp/koutarou_y1926/

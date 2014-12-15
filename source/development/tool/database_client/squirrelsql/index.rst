@@ -2,7 +2,13 @@
 Squirrel SQL
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* SQL Client
+* Windows / Mac OS X
+* http://squirrel-sql.sourceforge.net/

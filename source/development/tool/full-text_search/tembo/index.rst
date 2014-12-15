@@ -2,7 +2,12 @@
 Tembo
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* Mac OS X
+* http://houdah.com/tembo/

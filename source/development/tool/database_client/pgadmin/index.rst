@@ -2,7 +2,13 @@
 pgAdmin3
 ==========================================
 
-.. toctree::
-    :maxdepth: 2
+.. contents:: コンテンツ
+   :depth: 3
+   :local:
 
-    outline
+概要
+==========
+
+* PostgreSQL専用
+* Windows / Mac OS X
+* http://www.pgadmin.org/
