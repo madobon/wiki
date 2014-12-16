@@ -1,9 +1,10 @@
 =======================================================
-テキストエディタ
+デバッグ
 =======================================================
 
 .. toctree::
     :maxdepth: 2
 
-    sublime_text/index
-    vim/index
+    fiddler/index
+    firebug/index
+    chrome_dev_tool/index
