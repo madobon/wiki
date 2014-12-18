@@ -6,3 +6,4 @@ Swift
     :maxdepth: 2
 
     swipe
+    image
