@@ -1,65 +1,80 @@
-スワイプ検知
+スワイプを検知する
 =================
+
+| スワイプをしたタイミングで何か行いたい時などに使います。
+| 例えば、音楽プレーヤーで右スワイプで前の曲を再生、左スワイプで次の曲を再生などを実現できるようになります。
 
 .. contents:: 目次
     :depth: 2
 
 .. code:: Swift
 
-    override func viewDidLoad() {
+    import UIKit
 
-        super.viewDidLoad()
+    class ViewController: UIViewController {
 
-        // スワイプ検知用
-        addSwipeRecognizer()
-    }
+        override func viewDidLoad() {
 
-    /**
-     * スワイプ検知用に登録
-     */
-    func addSwipeRecognizer() {
-        var swipeLeft = UISwipeGestureRecognizer(target: self, action: "swiped:")
-        swipeLeft.direction = UISwipeGestureRecognizerDirection.Left
+            super.viewDidLoad()
 
-        var swipeRight = UISwipeGestureRecognizer(target: self, action: "swiped:")
-        swipeRight.direction = UISwipeGestureRecognizerDirection.Right
+            // スワイプ検知用
+            addSwipeRecognizer()
+        }
 
-        var swipeUp = UISwipeGestureRecognizer(target: self, action: "swiped:")
-        swipeUp.direction = UISwipeGestureRecognizerDirection.Up
+        override func didReceiveMemoryWarning() {
+            super.didReceiveMemoryWarning()
+        }
 
-        var swipeDown = UISwipeGestureRecognizer(target: self, action: "swiped:")
-        swipeDown.direction = UISwipeGestureRecognizerDirection.Down
+        /**
+         * スワイプ検知用に登録
+         */
+        func addSwipeRecognizer() {
+            var swipeLeft = UISwipeGestureRecognizer(target: self, action: "swiped:")
+            swipeLeft.direction = UISwipeGestureRecognizerDirection.Left
 
-        self.view.addGestureRecognizer(swipeLeft)
-        self.view.addGestureRecognizer(swipeRight)
-        self.view.addGestureRecognizer(swipeUp)
-        self.view.addGestureRecognizer(swipeDown)
-    }
+            var swipeRight = UISwipeGestureRecognizer(target: self, action: "swiped:")
+            swipeRight.direction = UISwipeGestureRecognizerDirection.Right
 
-    /**
-     * スワイプ
-     */
-    func swiped(gesture: UIGestureRecognizer) {
+            var swipeUp = UISwipeGestureRecognizer(target: self, action: "swiped:")
+            swipeUp.direction = UISwipeGestureRecognizerDirection.Up
 
-        if let swipeGesture = gesture as? UISwipeGestureRecognizer {
+            var swipeDown = UISwipeGestureRecognizer(target: self, action: "swiped:")
+            swipeDown.direction = UISwipeGestureRecognizerDirection.Down
 
-            switch swipeGesture.direction {
-            case UISwipeGestureRecognizerDirection.Left:
-                // 左
-                break
-            case UISwipeGestureRecognizerDirection.Right:
-                // 右
-                break
-            case UISwipeGestureRecognizerDirection.Up:
-                // 上
-                break
-            case UISwipeGestureRecognizerDirection.Down:
-                // 下
-                break
-            default:
-                // その他
-                break
+            self.view.addGestureRecognizer(swipeLeft)
+            self.view.addGestureRecognizer(swipeRight)
+            self.view.addGestureRecognizer(swipeUp)
+            self.view.addGestureRecognizer(swipeDown)
+        }
+
+        /**
+         * スワイプ
+         */
+        func swiped(gesture: UIGestureRecognizer) {
+
+            if let swipeGesture = gesture as? UISwipeGestureRecognizer {
+
+                switch swipeGesture.direction {
+                case UISwipeGestureRecognizerDirection.Left:
+                    // 左
+                    break
+                case UISwipeGestureRecognizerDirection.Right:
+                    // 右
+                    break
+                case UISwipeGestureRecognizerDirection.Up:
+                    // 上
+                    break
+                case UISwipeGestureRecognizerDirection.Down:
+                    // 下
+                    break
+                default:
+                    // その他
+                    break
+                }
+
             }
-
         }
     }
+
+.. note::
+    コールバック用に設定する関数名は任意ですが、引数をもつ場合は末尾に :(coron) をつける必要があります。

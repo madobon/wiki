@@ -1,0 +1,2 @@
+.. |UIKit Framework| replace :: `UIKit Framework`_
+.. |The Foundation Framework| replace :: `The Foundation Framework`_
