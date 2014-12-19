@@ -1,4 +1,5 @@
 .. include:: base.rst
+:tocdepth: 2
 
 =================
 画像を取得する
@@ -67,7 +68,7 @@ NSURLConnection.sendSynchronousRequest(エラーハンドリングあり)
     }
 
 .. note::
-    | NSData の第3引数は NSErrorPointer を引数にする。
+    | NSURLConnection.sendSynchronousRequest(...) の第3引数は NSErrorPointer を引数にする。
     | この場合 NSError の変数の先頭に &(ampersand) をつけることでポインタとして扱われる。
 
 Web上から非同期的に画像を取得する
