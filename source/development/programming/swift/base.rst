@@ -1,5 +1,10 @@
 .. include:: definition.txt
 
+.. _Resources for Apple Developers: https://developer.apple.com/resources/
+.. _iOS Developer Library: https://developer.apple.com/library/ios/navigation/
+.. _Mac Developer Library: https://developer.apple.com/library/Mac/
+.. _Resources for Swift: https://developer.apple.com/swift/resources/
+
 .. framework classes
 .. _UIKit Framework: https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIKit_Framework/index.html#classes
 .. _Foundation Framework: https://developer.apple.com/library/mac/documentation/Cocoa/Reference/Foundation/ObjC_classic/index.html#classes

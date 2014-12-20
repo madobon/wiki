@@ -1,0 +1,6 @@
+
+.. |button1| image:: ../../../_static/images/button1.png
+.. |button2| image:: ../../../_static/images/button2.png
+.. |button3| image:: ../../../_static/images/button3.png
+.. |button4| image:: ../../../_static/images/button4.png
+.. |button5| image:: ../../../_static/images/button5.png
