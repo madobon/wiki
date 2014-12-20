@@ -5,5 +5,6 @@ Swift
 .. toctree::
     :maxdepth: 2
 
-    swipe
+    gesture
     image
+    viewcontroller

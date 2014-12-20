@@ -1,5 +1,4 @@
 .. include:: base.rst
-:tocdepth: 2
 
 =================
 画像を取得する
@@ -9,7 +8,7 @@
 | Swift という言語はまだ成長段階のため、今後も仕様が変更される可能性が大いにある。
 
 - `UIKit Framework`_
-- `The Foundation Framework`_
+- `Foundation Framework`_
 
 .. contents:: 目次
     :depth: 3
