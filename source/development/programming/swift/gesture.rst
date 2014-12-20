@@ -26,6 +26,7 @@
 
 .. code:: Swift
 
+
     import UIKit
 
     class ViewController: UIViewController {
@@ -43,8 +44,8 @@
         }
 
         /**
-         * タップ検知用に登録
-         */
+        * タップ検知用に登録
+        */
         func addTapRecognizer() {
             var singleTap = UITapGestureRecognizer(target: self, action: "taped:")
             singleTap.numberOfTapsRequired = 1
@@ -61,8 +62,8 @@
         }
 
         /**
-         * タップ
-         */
+        * タップ
+        */
         func taped(gesture: UIGestureRecognizer) {
 
             if let tapGesture = gesture as? UITapGestureRecognizer {
@@ -70,13 +71,13 @@
                 switch tapGesture.numberOfTapsRequired {
                 case 1:
                     // シングル
-                    prinln("single tap")
+                    println("single tap")
                 case 2:
                     // ダブル
-                    prinln("double tap")
+                    println("double tap")
                 case 3:
                     // トリプル
-                    prinln("triple tap")
+                    println("triple tap")
                 default:
                     // その他
                     println("other")
