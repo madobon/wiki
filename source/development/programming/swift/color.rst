@@ -7,7 +7,7 @@
 .. contents:: 目次
     :depth: 2
 
-プリセットで用意されている色
+プリセットで用意されている色を使う
 ============================
 
 基本的な色は用意されているようです。
@@ -28,10 +28,9 @@
 - UIColor#brownColor()
 - UIColor#clearColor()
 
-UIColor()を拡張して便利に
+UIColor()を拡張して便利にする
 =============================
 
-| やはり同じように思った方は大勢いるんですね。
 | CSSなどの16進数表記のカラーコードで色指定できれば便利だと思いませんか？
 | そんなときは UIColor を拡張してしまいましょう。
 
@@ -52,7 +51,7 @@ UIColor()を拡張して便利に
     var menuTextColor = UIColor(rgba: "#013E") // Supports shorthand 4 character representation (with alpha)
 
 --------------
-コード
+内部実装
 --------------
 
 | せっかくなので、仕組みを理解しておきましょう。

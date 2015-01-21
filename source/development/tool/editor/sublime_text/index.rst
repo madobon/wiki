@@ -21,6 +21,12 @@ SublimeLinter
 文法チェックをしてくれる。
 
 -------------------------
+SublimeLinter-annotations
+-------------------------
+
+TODO や FIXME などをチェックしてくれる
+
+-------------------------
 SublimeLinter-html-tidy
 -------------------------
 
@@ -31,6 +37,12 @@ SublimeLinter-jshint
 -------------------------
 
 javascript
+
+-------------------------
+SublimeLinter-csslint
+-------------------------
+
+css
 
 -------------------------
 SublimeLinter-json
@@ -181,3 +193,16 @@ OmniMarkupPreviewer
             "extensions": ["tables", "strikeout", "fenced_code", "codehilite", "toc"]
         }
     }
+
+SublimeCodeIntel
+---------------------
+
+Go To Definition
+---------------------
+
+Inc-Dec-Value
+---------------------
+
+TernJS
+---------------------
+
