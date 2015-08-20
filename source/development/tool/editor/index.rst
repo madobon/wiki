@@ -6,4 +6,5 @@
     :maxdepth: 2
 
     sublime_text/index
+    atom/index
     vim/index
