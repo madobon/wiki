@@ -1,4 +1,4 @@
-Knowledge
+Wiki
 ========================
 
 .. toctree::
