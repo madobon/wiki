@@ -28,5 +28,11 @@ Atom
    * https://atom.io/packages/linter
 * linter-jshint
    * javascript 用の構文チェッカー
-* linter-eshint
+* linter-eslint
    * javascript 用の構文チェッカー
+* pigments
+   * 色と認識できる文字列に対して、背景に色をつけてくれる
+* pigments-minimap
+   * pigments の minimap版
+* save-session
+   * SublimeTextみたいな感じで、ファイルを保存しなくても永続化してくれる。
