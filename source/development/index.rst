@@ -9,6 +9,7 @@ Contents:
 
     tool/index
     programming/index
+    auth/index
     webservice
     troubleshooting
     scrum
