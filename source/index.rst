@@ -6,4 +6,3 @@ Wiki
     :numbered:
 
     development/index
-    todo
