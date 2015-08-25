@@ -5,7 +5,7 @@
 通常メソッド
 ===============
 
-.. code-block: js
+.. code:: js
 
   var func = function(x, y, z) { return x + y + z }
 
@@ -16,7 +16,7 @@
 
 | 複数の引数を取る関数を、引数をひとつだけ取る関数になおすイメージ
 
-.. code-block: js
+.. code:: js
 
   var curriedFunc = function(x) {
     return function(y) {
@@ -33,7 +33,7 @@
 
 | 複数の引数を取る関数を、一部の引数を固定化した関数になおすイメージ
 
-.. code-block: js
+.. code:: js
 
   var bindXFunc = function(x) {
     return function(y, z) {
