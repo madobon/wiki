@@ -21,7 +21,7 @@
   var curriedFunc = function(x) {
     return function(y) {
       return function(z) {
-        return x + y + x;
+        return x + y + z;
       }
     }
   }
@@ -35,6 +35,8 @@
 
 .. code-block:: js
 
+  var func = function(x, y, z) { return x + y + z }
+
   var bindXFunc = function(x) {
     return function(y, z) {
       return x + y + z;
@@ -42,3 +44,7 @@
   }
 
   bindXFunc(1)(2, 3) // 6
+
+  func.bind(this)(1, 2, 3) // 6
+  func.bind(this, 1)(2, 3) // 6
+  func.bind(this, 1, 2)(3) // 6
