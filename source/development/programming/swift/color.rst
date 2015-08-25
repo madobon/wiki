@@ -43,7 +43,7 @@ UIColor()を拡張して便利にする
 
 | CSSと同じ感覚で使えます。
 
-.. code:: Swift
+.. code-block:: Swift
 
     var strokeColor = UIColor(rgba: "#ffcc00").CGColor // Solid color
     var fillColor = UIColor(rgba: "#ffcc00dd").CGColor // Color with alpha
@@ -58,7 +58,7 @@ UIColor()を拡張して便利にする
 | 基本的には16進数 を 0.0 〜 1.0 の範囲に変換しているだけです。
 | alphaにも対応しているので、透明にもできます。
 
-.. code:: Swift
+.. code-block:: Swift
 
     //
     //  UIColorExtension.swift
@@ -129,7 +129,7 @@ UIColor()を拡張して便利にする
 
 |button1|
 
-.. code:: Swift
+.. code-block:: Swift
 
     // ボタン：Yes
     let buttonYes = UIButton(frame: CGRectMake(0, 0, 100, 100))
@@ -148,7 +148,7 @@ UIColor()を拡張して便利にする
 
 |button2|
 
-.. code:: Swift
+.. code-block:: Swift
 
     // ボタン：Yes
     let buttonYes = UIButton(frame: CGRectMake(0, 0, 200, 100))
@@ -167,7 +167,7 @@ UIColor()を拡張して便利にする
 
 |button3|
 
-.. code:: Swift
+.. code-block:: Swift
 
     // ボタン：Yes
     let buttonYes = UIButton(frame: CGRectMake(0, 0, 100, 100))
@@ -188,7 +188,7 @@ UIColor()を拡張して便利にする
 
 |button4|
 
-.. code:: Swift
+.. code-block:: Swift
 
     // ボタン：Yes
     let buttonYes = UIButton(frame: CGRectMake(0, 0, 200, 100))
@@ -209,7 +209,7 @@ UIColor()を拡張して便利にする
 
 |button5|
 
-.. code:: Swift
+.. code-block:: Swift
 
     // ボタン：Yes
     let buttonYes = UIButton(frame: CGRectMake(0, 0, 100, 100))

@@ -1,14 +1,14 @@
 
-.. code:: shell
+.. code-block:: shell
 
   $ brew install typesafe-activator
 
 
-.. code:: shell
+.. code-block:: shell
 
   $ activator new
 
-.. code:: shell
+.. code-block:: shell
 
   Fetching the latest list of templates...
 
@@ -35,18 +35,18 @@
   To run the Activator UI for "SecondPlayScala" from the command line, "cd SecondPlayScala" then:
   /Users/madobon/dev/env/workspace/SecondPlayScala/activator ui
 
-.. code:: shell
+.. code-block:: shell
 
   $ play-scala-2.3
 
 eclipse のプロジェクトとして扱えるようにします。
 
-.. code:: shell
+.. code-block:: shell
 
   $ activator eclipse
 
 起動（ http://localhost:9000/ ）
 
-.. code:: shell
+.. code-block:: shell
 
   $ activator run

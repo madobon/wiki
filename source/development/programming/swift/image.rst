@@ -19,7 +19,7 @@ Web上から同期的に画像を取得する
 NSData(エラーハンドリングなし)
 ----------------------------------------
 
-.. code:: Swift
+.. code-block:: Swift
 
     let url = NSURL(string: "画像のURL")
     var imageData = NSData(contentsOfURL: url!)
@@ -29,7 +29,7 @@ NSData(エラーハンドリングなし)
 NSData(エラーハンドリングあり)
 ----------------------------------------
 
-.. code:: Swift
+.. code-block:: Swift
 
     let url = NSURL(string: "画像のURL")
     var error: NSError?
@@ -49,7 +49,7 @@ NSData(エラーハンドリングあり)
 NSURLConnection.sendSynchronousRequest(エラーハンドリングあり)
 ----------------------------------------------------------------------
 
-.. code:: Swift
+.. code-block:: Swift
 
     let url = NSURL(string: "画像のURL")
     let request = NSURLRequest(URL:url!)
@@ -77,7 +77,7 @@ Web上から非同期的に画像を取得する
 NSURLConnection.sendAsynchronousRequest(エラーハンドリングあり)
 ----------------------------------------------------------------------
 
-.. code:: Swift
+.. code-block:: Swift
 
     let url = NSURL(string: "画像のURL")
     let request = NSURLRequest(URL:url!)

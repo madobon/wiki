@@ -88,7 +88,7 @@ TrailingSpaces
 
 PackageSetting > TrailingSpaces > Setting - User に、以下を追加します。
 
-.. code:: json
+.. code-block:: json
 
     {
         "trailing_spaces_regexp": "\u0085|\u00a0|\u1680|\u180e|[\u2000-\u200a]|\u2028|\u2029|\u202f|\u205f|\u3000|[ \t]+"
@@ -103,7 +103,7 @@ PrettyJSON
 JSONの整形をしてくれる。
 
 * 整形前
-    .. code:: json
+    .. code-block:: json
 
         {
             "json":{
@@ -116,7 +116,7 @@ JSONの整形をしてくれる。
             }
         }
 * 整形後
-    .. code:: json
+    .. code-block:: json
 
         {
           "json": {
@@ -138,7 +138,7 @@ JSONの整形をしてくれる。
 
 インデントがデフォルトで2なので4に変更したい場合
 
-.. code:: json
+.. code-block:: json
 
     {
         "indent" : 4,
@@ -150,7 +150,7 @@ DocBlockr
 
 ソースのDocコメント作成を補助してくれる。
 
-.. code:: js
+.. code-block:: js
 
     /**
      * [description]
@@ -186,7 +186,7 @@ OmniMarkupPreviewer
 
 プレビューで目次を追加したい場合は末尾に toc を追加してあげましょう。
 
-.. code:: json
+.. code-block:: json
 
     {
         "renderer_options-MarkdownRenderer": {
