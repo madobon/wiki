@@ -1,5 +1,5 @@
 ==========
-Swift
+JavaScript
 ==========
 
 .. toctree::
