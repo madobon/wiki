@@ -6,8 +6,9 @@
 
 子から親へしゃぼん玉のように伝播していく
 
-|eventflow|
-  :width: 50%
+.. image:: ../../../_static/images/eventflow.svg
+    :width: 50%
+
 
 http://jsfiddle.net/madobon/d3my03cq/
 
