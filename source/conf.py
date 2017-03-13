@@ -183,6 +183,8 @@ htmlhelp_basename = 'Wikidoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
+latex_docclass = {'manual': 'jsbook'}
+
 latex_elements = {
 # The paper size ('letterpaper' or 'a4paper').
 #'papersize': 'letterpaper',
