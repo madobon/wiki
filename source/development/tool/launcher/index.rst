@@ -7,3 +7,4 @@
 
     alfred/index
     fenrir/index
+    keypirinha/index
