@@ -6,3 +6,4 @@ Wiki
     :numbered:
 
     development/index
+    hobby/index
