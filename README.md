@@ -1,7 +1,7 @@
 wiki
 =========
 
-WEBに関する知識を蓄えていくナレッジレポジトリ。
+メモ帳のかわりです。
 
 readthedocsでホスティングしてます。
 http://madobon-wiki.readthedocs.org/
