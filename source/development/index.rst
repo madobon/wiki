@@ -2,7 +2,8 @@
 開発
 ===============
 
-Contents:
+.. contents:: 目次
+   :depth: 2
 
 .. toctree::
     :maxdepth: 3

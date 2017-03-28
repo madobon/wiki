@@ -16,7 +16,7 @@
     launcher/index
 
 .. contents:: 目次
-   :depth: 3
+   :depth: 2
 
 
 ドキュメント検索
